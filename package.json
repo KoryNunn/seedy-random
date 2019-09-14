@@ -1,7 +1,7 @@
 {
   "name": "seedy-random",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tiny, Very very bad seeded RNG for use in games.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "tape": "^4.11.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/seedy-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/seedy-random/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/seedy-random#readme"
 }
