@@ -1,0 +1,17 @@
+{
+  "name": "seedy-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Kory Nunn <knunn187@gmail.com> (https://korynunn.com)",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.11.0"
+  }
+}
